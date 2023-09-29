@@ -11,7 +11,7 @@ This repository hosts the code and resources for a state-of-the-art trilingual Q
 
 - **Multilingual Support**: Our model supports three languages: English, Hindi, and Yoruba. It is extendable to as many languages as desired.
 - **Context Awareness**: It is capable of detecing the input language and generating questions and plausible answers based on context paragraph, making it suitable for tasks like reading comprehension, chatbots, and more.
-- **State-of-the-Art Performance**: Our model has been trained with 11.5% portion of the datasets due to hardware constraint. We achieved impressive results in our experiments.
+- **State-of-the-Art Performance**: Our model has been trained with 11.5% portion of the datasets due to hardware constraint. We achieved impressive results in our experiments which you will find at the results section of our paper "Trilingual Context-aware Question and Answer Generation".
 
 ## Usage
 
